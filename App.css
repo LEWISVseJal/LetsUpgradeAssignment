@@ -1,0 +1,39 @@
+.header
+{
+  background-color: rgba(76, 210, 220, 0.793);
+  padding: 20px;
+  margin: 10px;
+  font-size: 40px;
+}
+
+.products{
+  width: 100px;
+  display:flex;
+}
+
+.product
+{
+  width: fit-content;
+  padding: 20px;
+  margin: 10px;
+  background-color: rgb(213, 135, 235);
+}
+
+.img{
+  width: 400px;
+}
+
+.btn{
+  padding: 15px 35px;
+  margin: 10px;
+  background-color: rgb(176, 120, 229);
+  color: white;
+  font-size: 40px;
+}
+
+.data{
+  background-color: beige;
+  padding: 20px;
+  margin: 10px;
+  width: fit-content;
+}
